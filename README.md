@@ -1,7 +1,7 @@
 <h1>Olá, é um prazer ter você aqui!</h1>
 
 <h2>📝 Sobre</h2>
-<p>Este projeto é o reusultado de vários exercícios práticos focados em HTML, CSS e Javascriptm desenvolvido durante o curso de programação Alura + Oracle, do projeto Oracle Next Education T6 - ONE, aplicando conceitos aprendidos em um formato de portfolio, adaptado por mim para o tema de Costumer Success e Costumer Experience..</p>
+<p>Este projeto é o resultado de vários exercícios práticos focados em HTML, CSS e Javascript, desenvolvido durante o curso de programação de parceria da Oracle + Alura, do projeto Oracle Next Education T6 - ONE, aplicando os conceitos aprendidos neste projeto em um formato de portfolio</p>
 
 <p>Espero que goste, é meu primeiro portfolio desenvolvido e fiquei muito feliz com o resultado, contudo, buscando melhorar cada vez mais!</p>
 
